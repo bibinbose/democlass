@@ -1,0 +1,5 @@
+int a=10
+int b=5
+sum = a+b
+
+print('Sum = '+sum)
